@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+    margin-top: 15px;
+}
+.container{
+    width: 100%;
+}
+.maindiv{
+    width: 100%;
+    height: 170px;
+    display: flex;
+    /* border: 1px solid black; */
+}
+.minidiv{
+    width: 20%;
+    padding-right: 10PX;
+}
+p{
+    color: #FFFF;
+    font-weight: 600;
+    text-align: end;
+    /* text-align: end; */
+    /* justify-content:flex-end ; */
+    margin-top: 140PX;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
